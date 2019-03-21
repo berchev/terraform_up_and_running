@@ -1,0 +1,7 @@
+webserver/terraform.tfstate.backup
+webserver/terraform.tfstate
+webserver/.terraform/
+cluster_of_webservers/terraform.tfstate.backup
+cluster_of_webservers/terraform.tfstate
+cluster_of_webservers/.terraform/
+
